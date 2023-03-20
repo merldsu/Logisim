@@ -1,2 +1,5 @@
 # Logisim
-This repo contains all the logisim file for Single Cycle Architecture
+This Repository contains the Logisim design of RISC-V Single Cycle Core.
+
+#LICENSE
+
