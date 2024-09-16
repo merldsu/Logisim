@@ -1,18 +1,3 @@
-# RISC-V Logisim
-This Repository contains the Logisim design of RISC-V Single Cycle Core.
+# Mastering Digital Logic Design with Logisim: From Basics to CPU
 
-# LICENSE
-
-  Copyright 2023 MERL-DSU
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+Dive into the world of digital logic design with this comprehensive tutorial series on Logisim. Whether you're a beginner or looking to refine your skills, this playlist covers everything from basic logic gates to building a simple CPU. Learn how to design combinational and sequential circuits, explore memory components, and create a fully functional Arithmetic Logic Unit (ALU). With practical examples and step-by-step simulations, this series will guide you through the fundamentals and help you master digital system design using Logisim
